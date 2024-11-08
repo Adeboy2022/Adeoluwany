@@ -1,7 +1,7 @@
 # Hello, I'm Adetayo
 <a href="https://www.linkedin.com/in/adetayo-adedeji-473816337/"
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a recent graduate with a profound interest in cyber security and a dedication to solving complex problems.
 
